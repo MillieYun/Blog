@@ -68,4 +68,9 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/MillieYun/Blog.git
+  branch: master
+  message: Blog
+  name: millieyun
+  email: millie.yun@gmail.com

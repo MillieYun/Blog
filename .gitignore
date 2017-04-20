@@ -1,0 +1,10 @@
+
+# .gitignore
+node_modules/
+.vscode
+public/
+.DS_Store
+Thumbs.db
+db.json
+*.log
+.deploy*/

@@ -66,11 +66,9 @@ pagination_dir: page
 theme: landscape
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
+## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/MillieYun/Blog.git
-  branch: master
-  message: Blog
-  name: millieyun
-  email: millie.yun@gmail.com
+	type: git
+	repo: git@github.com:MillieYun/millieyun.github.io.git
+	branch: master
+	message: "Blog update"

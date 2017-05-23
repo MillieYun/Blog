@@ -1,4 +1,0 @@
----
-title: FirstPost
-tags: JavaScript
----

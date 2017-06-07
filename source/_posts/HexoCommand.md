@@ -12,6 +12,7 @@ date: 2017-05-23 12:17:32
 ### 發佈或佈署網站
 ```cli
 hexo deploy
+hexo deploy --generate
 ```
 -g, --generate	部署網站前先產生靜態檔案
 
@@ -39,7 +40,7 @@ hexo new [layout] <title>
 ```
 `[layout]`: post(source/_posts), page(source), draft(source/_drafts)
 
-### 發佈草稿
+### 完成草稿後，移動草稿到公開資料夾
 ```
 hexo publish [layout] <title>
 ```

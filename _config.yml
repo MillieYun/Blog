@@ -71,9 +71,9 @@ archive_generator:
   yearly: false
   monthly: false
   daily: false
-facebook: https://www.facebook.com/millieyun
+facebook: millieyun
 avatar: /images/favicon.png
-github: https://github.com/MillieYun
+github: MillieYun
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html

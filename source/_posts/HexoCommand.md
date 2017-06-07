@@ -9,6 +9,9 @@ date: 2017-05-23 12:17:32
 
 ## 網站
 
+### 安裝Theme
+[Anatole Theme](https://github.com/Ben02/hexo-theme-Anatole/wiki/Installation)
+
 ### 發佈或佈署網站
 ```cli
 hexo deploy

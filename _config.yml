@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Millie Ho - Front End Developer
+title: Millie Ho - A Front End Developer
 subtitle:
 description:
-author: Millie Ho
+author: Millie Ho,millie.yun@gmail.com
 language:
 timezone:
 
@@ -71,6 +71,9 @@ archive_generator:
   yearly: false
   monthly: false
   daily: false
+facebook: https://www.facebook.com/millieyun
+avatar: /images/favicon.png
+github: https://github.com/MillieYun
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
